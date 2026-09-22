@@ -284,7 +284,7 @@ DSA/
 
 ---
 
-## 🔥 Practice Tracker
+##  Practice Tracker
 
 | Category            | Problems Solved |
 | ------------------- | --------------: |
@@ -329,23 +329,7 @@ DSA/
 
 ---
 
-##  My Learning System
 
-### 🔁 The 3-Step Rule
-
-```text
-        LEARN
-          ↓
-      UNDERSTAND
-          ↓
-       PRACTICE
-          ↓
-        REPEAT 🔁
-```
-
-I focus on understanding the **logic behind a solution** instead of just copying code.
-
----
 
 ##  Consistency Tracker
 
@@ -410,15 +394,6 @@ Week 04  ██████████ 🚀
 
 ---
 
-##  Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kruthikbt/kruthikbt/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-
-</div>
-
----
 
 ##  Long-Term Goal
 
@@ -437,12 +412,12 @@ Build Strong Problem-Solving Skills
    ↓
 Prepare for Technical Interviews
    ↓
-🚀 Become a Strong Software Engineer
+Become a Strong Software Engineer
 ```
 
 ---
 
-## 🌱 Current Focus
+## Current Focus
 
 <div align="center">
 
@@ -456,9 +431,6 @@ Prepare for Technical Interviews
 
 ## ⭐ Keep Going
 
-> **Don't compare your Day 1 with someone else's Day 100.**
-
-Every problem solved is one more step toward becoming a better programmer.
 
 <div align="center">
 
