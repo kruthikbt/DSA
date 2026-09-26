@@ -2,7 +2,7 @@
 
 #  Data Structures & Algorithms
 
-###   My DSA Journey — Learn • Practice • Solve • Improve
+###  My DSA Journey — Learn • Practice • Solve • Improve
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Learning+DSA+with+C;Building+strong+problem-solving+skills;Understanding+algorithms+step+by+step;Preparing+for+technical+interviews+%F0%9F%9A%80" alt="Typing Animation">
 
