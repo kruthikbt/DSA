@@ -99,111 +99,66 @@ My main focus is to understand **how and why algorithms work**, rather than simp
 
 ---
 
-##  Complexity First
 
-Before focusing heavily on solving problems, I'm learning to understand the efficiency of algorithms.
 
-### Time Complexity
-
-```text
-O(1)       → Constant
-O(log n)   → Logarithmic
-O(n)       → Linear
-O(n log n) → Linearithmic
-O(n²)      → Quadratic
-O(2ⁿ)      → Exponential
-O(n!)      → Factorial
-```
-
-### Example
-
-```c
-for (int i = 0; i < n; i++)
-{
-    printf("%d ", arr[i]);
-}
-```
-
-**Time Complexity:** `O(n)`
-
----
 
 ## 📚 Topics I'm Learning
 
-### 01. Arrays
+```mermaid
+flowchart TB
+    A["🧠 DSA ROADMAP<br/>25 FIXED TOPICS"] --> B["01 · Time & Space Complexity"]
+    B --> C["02 · Arrays"]
+    C --> D["03 · Strings"]
+    D --> E["04 · Hashing"]
+    E --> F["05 · Two Pointers"]
+    F --> G["06 · Sliding Window"]
+    G --> H["07 · Prefix Sum"]
+    H --> I["08 · Binary Search"]
+    I --> J["09 · Sorting Algorithms"]
+    J --> K["10 · Recursion"]
+    K --> L["11 · Backtracking"]
+    L --> M["12 · Linked List"]
+    M --> N["13 · Stack"]
+    N --> O["14 · Queue & Deque"]
+    O --> P["15 · Monotonic Stack / Queue"]
+    P --> Q["16 · Heap / Priority Queue"]
+    Q --> R["17 · Trees"]
+    R --> S["18 · Binary Search Tree"]
+    S --> T["19 · Graphs"]
+    T --> U["20 · Advanced Graphs"]
+    U --> V["21 · Trie"]
+    V --> W["22 · Greedy"]
+    W --> X["23 · Dynamic Programming"]
+    X --> Y["24 · Bit Manipulation"]
+    Y --> Z["25 · Intervals"]
 
-```text
-Arrays
- ├── Traversal
- ├── Insertion
- ├── Deletion
- ├── Searching
- ├── Updating
- ├── Maximum / Minimum
- ├── Duplicate Elements
- ├── Frequency
- └── Array Problems
-```
+    style A fill:#111827,stroke:#60a5fa,stroke-width:3px,color:#fff
 
-### 02. Searching
-
-```text
-Searching
- ├── Linear Search
- └── Binary Search
-```
-
-### 03. Sorting
-
-```text
-Sorting
- ├── Bubble Sort
- ├── Selection Sort
- ├── Insertion Sort
- ├── Merge Sort
- └── Quick Sort
-```
-
-### 04. Linked Lists
-
-```text
-Linked List
- ├── Singly Linked List
- ├── Doubly Linked List
- └── Circular Linked List
-```
-
-### 05. Linear Data Structures
-
-```text
-Stack
-Queue
-Deque
-```
-
-### 06. Non-Linear Data Structures
-
-```text
-        🌳 Trees
-           │
-      ┌────┴────┐
-   Binary     BST
-    Tree
-           
-        🕸️ Graphs
-           │
-      ┌────┴────┐
-     BFS       DFS
-```
-
----
-
-## 💻 Language
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c" width="80">
-
+    style B fill:#172554,stroke:#3b82f6,color:#fff
+    style C fill:#172554,stroke:#3b82f6,color:#fff
+    style D fill:#172554,stroke:#3b82f6,color:#fff
+    style E fill:#172554,stroke:#3b82f6,color:#fff
+    style F fill:#172554,stroke:#3b82f6,color:#fff
+    style G fill:#172554,stroke:#3b82f6,color:#fff
+    style H fill:#172554,stroke:#3b82f6,color:#fff
+    style I fill:#172554,stroke:#3b82f6,color:#fff
+    style J fill:#172554,stroke:#3b82f6,color:#fff
+    style K fill:#172554,stroke:#3b82f6,color:#fff
+    style L fill:#172554,stroke:#3b82f6,color:#fff
+    style M fill:#172554,stroke:#3b82f6,color:#fff
+    style N fill:#172554,stroke:#3b82f6,color:#fff
+    style O fill:#172554,stroke:#3b82f6,color:#fff
+    style P fill:#172554,stroke:#3b82f6,color:#fff
+    style Q fill:#172554,stroke:#3b82f6,color:#fff
+    style R fill:#172554,stroke:#3b82f6,color:#fff
+    style S fill:#172554,stroke:#3b82f6,color:#fff
+    style T fill:#172554,stroke:#3b82f6,color:#fff
+    style U fill:#172554,stroke:#3b82f6,color:#fff
+    style V fill:#172554,stroke:#3b82f6,color:#fff
+    style W fill:#172554,stroke:#3b82f6,color:#fff
+    style X fill:#172554,stroke:#3b82f6,color:#fff
+    style Y fill:#172554,stroke:#3b82f6,color:#fff
+    style Z fill:#172554,stroke:#3b82f6,color:#fff
 ### C Programming
 
 </div>
