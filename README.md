@@ -1,8 +1,8 @@
 <div align="center">
 
-#  Data Structures & Algorithms
+# 📚 Data Structures & Algorithms
 
-###  My DSA Journey — Learn • Practice • Solve • Improve
+### My DSA Journey — Learn • Practice • Solve • Improve
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Learning+DSA+with+C;Building+strong+problem-solving+skills;Understanding+algorithms+step+by+step;Preparing+for+technical+interviews+%F0%9F%9A%80" alt="Typing Animation">
 
@@ -14,7 +14,7 @@
 
 ---
 
-##  About This Repository
+## 📖 About This Repository
 
 Welcome to my **Data Structures & Algorithms journey**!
 
@@ -24,16 +24,16 @@ My main focus is to understand **how and why algorithms work**, rather than simp
 
 ### 🎯 Goals
 
-* 🧠 Build strong problem-solving skills
-* 💻 Implement DSA concepts using **C**
-* ⏱️ Understand time and space complexity
-* 🧩 Solve problems consistently
-* 📚 Strengthen programming fundamentals
-* 💼 Prepare for technical interviews and placements
+- 🧠 Build strong problem-solving skills
+- 💻 Implement DSA concepts using **C**
+- ⏱️ Understand time and space complexity
+- 🧩 Solve problems consistently
+- 📚 Strengthen programming fundamentals
+- 💼 Prepare for technical interviews and placements
 
 ---
 
-##  DSA Roadmap
+## 🗺️ DSA Roadmap
 
 ```text
                          🧠 DSA
@@ -42,10 +42,10 @@ My main focus is to understand **how and why algorithms work**, rather than simp
              │                           │
        📊 Fundamentals              ⏱️ Complexity
              │                           │
-       ┌─────┴─────┐               ┌────┴────┐
-       │           │               │         │
-     Arrays     Strings            Time     Space
-       │           │               Complexity Complexity
+       ┌─────┴─────┐                ┌────┴────┐
+       │           │                │         │
+     Arrays      Strings           Time      Space
+       │           │           Complexity  Complexity
        └─────┬─────┘
              │
        🔍 Searching
@@ -75,38 +75,37 @@ My main focus is to understand **how and why algorithms work**, rather than simp
 
 ---
 
-##  Learning Progress
+## 📈 Learning Progress
 
-| Topic                       | Status      |
+| Topic | Status |
 | --------------------------- | ----------- |
 | 🟢 Programming Fundamentals | ✅ Completed |
-| 🟢 Arrays                   | 🔄 Learning |
-| 🟢 Time Complexity          | ✅ Completed |
-| 🟡 Searching                | ⏳ Upcoming  |
-| 🟡 Sorting                  | ⏳ Upcoming  |
-| 🟡 Strings                  | ⏳ Upcoming  |
-| 🔵 Linked List              | ⏳ Upcoming  |
-| 🔵 Stack                    | ⏳ Upcoming  |
-| 🔵 Queue                    | ⏳ Upcoming  |
-| 🟣 Recursion                | ⏳ Upcoming  |
-| 🟣 Trees                    | ⏳ Upcoming  |
-| 🟣 Graphs                   | ⏳ Upcoming  |
-| 🔴 Hashing                  | ⏳ Upcoming  |
-| 🔴 Dynamic Programming      | ⏳ Upcoming  |
-| 🚀 Advanced Algorithms      | ⏳ Upcoming  |
+| 🟢 Arrays | 🔄 Learning |
+| 🟢 Time Complexity | ✅ Completed |
+| 🟡 Searching | ⏳ Upcoming |
+| 🟡 Sorting | ⏳ Upcoming |
+| 🟡 Strings | ⏳ Upcoming |
+| 🔵 Linked List | ⏳ Upcoming |
+| 🔵 Stack | ⏳ Upcoming |
+| 🔵 Queue | ⏳ Upcoming |
+| 🟣 Recursion | ⏳ Upcoming |
+| 🟣 Trees | ⏳ Upcoming |
+| 🟣 Graphs | ⏳ Upcoming |
+| 🔴 Hashing | ⏳ Upcoming |
+| 🔴 Dynamic Programming | ⏳ Upcoming |
+| 🚀 Advanced Algorithms | ⏳ Upcoming |
 
 > 🔄 **Learning** • ⏳ **Upcoming** • ✅ **Completed**
 
-
-
-
-
+---
 
 ## 🧠 Topics I'm Learning
 
 ```mermaid
 flowchart TB
+
     A["🧠 DSA ROADMAP<br/>25 FIXED TOPICS"] --> B["01 · Time & Space Complexity"]
+
     B --> C["02 · Arrays"]
     C --> D["03 · Strings"]
     D --> E["04 · Hashing"]
@@ -133,6 +132,7 @@ flowchart TB
     Y --> Z["25 · Intervals"]
 
     style A fill:#111827,stroke:#60a5fa,stroke-width:3px,color:#fff
+
     style B fill:#172554,stroke:#3b82f6,color:#fff
     style C fill:#172554,stroke:#3b82f6,color:#fff
     style D fill:#172554,stroke:#3b82f6,color:#fff
@@ -158,17 +158,19 @@ flowchart TB
     style X fill:#172554,stroke:#3b82f6,color:#fff
     style Y fill:#172554,stroke:#3b82f6,color:#fff
     style Z fill:#172554,stroke:#3b82f6,color:#fff
+```
+
 I'm currently implementing DSA concepts using **C** to strengthen my understanding of:
 
-* Pointers
-* Arrays
-* Structures
-* Dynamic Memory Allocation
-* Functions
-* Recursion
-* Memory management
+- Pointers
+- Arrays
+- Structures
+- Dynamic Memory Allocation
+- Functions
+- Recursion
+- Memory management
 
--
+---
 
 ## 🧩 Problem-Solving Approach
 
@@ -234,20 +236,20 @@ DSA/
 
 ---
 
-##  Practice Tracker
+## 📊 Practice Tracker
 
-| Category            | Problems Solved |
+| Category | Problems Solved |
 | ------------------- | --------------: |
-| Arrays              |            🔢 4|
-| Searching           |            🔢 1|
-| Sorting             |            🔢 0 |
-| Strings             |            🔢 0 |
-| Linked List         |            🔢 0 |
-| Stack               |            🔢 0 |
-| Queue               |            🔢 0 |
-| Trees               |            🔢 0 |
-| Graphs              |            🔢 0 |
-| Dynamic Programming |            🔢 0 |
+| Arrays | 🔢 4 |
+| Searching | 🔢 1 |
+| Sorting | 🔢 0 |
+| Strings | 🔢 0 |
+| Linked List | 🔢 0 |
+| Stack | 🔢 0 |
+| Queue | 🔢 0 |
+| Trees | 🔢 0 |
+| Graphs | 🔢 0 |
+| Dynamic Programming | 🔢 0 |
 
 > I'll update this tracker as I solve more problems.
 
@@ -262,26 +264,24 @@ DSA/
       Strong Fundamentals
               │
               ↓
-       Problem Solving
+        Problem Solving
               │
               ↓
-       Coding Practice
+        Coding Practice
               │
               ↓
-      Interview Problems
+       Interview Problems
               │
               ↓
        Technical Interviews
               │
               ↓
-          🚀 Career
+           🚀 Career
 ```
 
 ---
 
-
-
-##  Consistency Tracker
+## 🔥 Consistency Tracker
 
 ```text
 Week 01  ███░░░░░░░
@@ -299,11 +299,11 @@ Week 04  ██████████ 🚀
 ```text
                     DSA
                      │
-       ┌─────────────┼─────────────┐
-       ↓             ↓             ↓
-   Logic 🧠      Coding 💻    Complexity ⏱️
-       │             │             │
-       └─────────────┼─────────────┘
+        ┌────────────┼─────────────┐
+        ↓            ↓             ↓
+    Logic 🧠      Coding 💻    Complexity ⏱️
+        │            │             │
+        └────────────┼─────────────┘
                      ↓
              Problem Solving
                      ↓
@@ -312,11 +312,11 @@ Week 04  ██████████ 🚀
 
 ---
 
-##  Tools
+## 🛠️ Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=c,vscode,git,github" alt="Tools">
 
 </div>
 
@@ -326,26 +326,25 @@ Week 04  ██████████ 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kruthikbt&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=kruthikbt&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikbt&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikbt&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
 
 </div>
 
 ---
 
-##  Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kruthikbt&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=kruthikbt&theme=tokyonight&hide_border=true" alt="Contribution Streak">
 
 </div>
 
 ---
 
-
-##  Long-Term Goal
+## 🚀 Long-Term Goal
 
 ```text
 Learn DSA
@@ -367,7 +366,7 @@ Become a Strong Software Engineer
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -381,13 +380,12 @@ Become a Strong Software Engineer
 
 ## ⭐ Keep Going
 
-
 <div align="center">
 
-### 💻 Learn DSA. Solve Problems. Build Logic. 
+### 💻 Learn DSA. Solve Problems. Build Logic.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" alt="Footer">
 
 </div>
