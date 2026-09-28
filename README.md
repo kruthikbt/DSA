@@ -97,12 +97,12 @@ My main focus is to understand **how and why algorithms work**, rather than simp
 
 > 🔄 **Learning** • ⏳ **Upcoming** • ✅ **Completed**
 
----
 
 
 
 
-## 📚 Topics I'm Learning
+
+## 🧠 Topics I'm Learning
 
 ```mermaid
 flowchart TB
@@ -133,7 +133,6 @@ flowchart TB
     Y --> Z["25 · Intervals"]
 
     style A fill:#111827,stroke:#60a5fa,stroke-width:3px,color:#fff
-
     style B fill:#172554,stroke:#3b82f6,color:#fff
     style C fill:#172554,stroke:#3b82f6,color:#fff
     style D fill:#172554,stroke:#3b82f6,color:#fff
@@ -159,10 +158,6 @@ flowchart TB
     style X fill:#172554,stroke:#3b82f6,color:#fff
     style Y fill:#172554,stroke:#3b82f6,color:#fff
     style Z fill:#172554,stroke:#3b82f6,color:#fff
-### C Programming
-
-</div>
-
 I'm currently implementing DSA concepts using **C** to strengthen my understanding of:
 
 * Pointers
@@ -173,7 +168,7 @@ I'm currently implementing DSA concepts using **C** to strengthen my understandi
 * Recursion
 * Memory management
 
----
+-
 
 ## 🧩 Problem-Solving Approach
 
