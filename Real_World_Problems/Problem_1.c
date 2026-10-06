@@ -3,7 +3,6 @@
 #include <string.h>
 
 struct Books{
-
     int Book_ID;
     char author[50];
     char title[50];
